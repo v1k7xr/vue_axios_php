@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+label, small, h3, p {
+    color: black;
+}
+
+.requestform {
+    background-color: blueviolet;
+}
+
+.inputclass {
+    background-color: black;
+    color: blueviolet;
+}
+
+.myButton {
+    color: black;
+    background-color: blueviolet;
+    border-color: black;
+    border-width: 2px;
+    border-bottom-color: blueviolet;
+    border-right-color: blueviolet;
+    border-left-color: blueviolet;
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+}
+
+.validationError {
+    color: #df0000;
+    background-color: black;
+}
+
+transition div {
+    transition: background-color 5s;
+}

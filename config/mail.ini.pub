@@ -1,0 +1,6 @@
+username = sender
+password = passwordsender
+port = port on smtp server (Yandex have 465 by def)
+host = hostlink (using in lab ssl://smtp.yandex.ru)
+
+managerEmail = recipient email
